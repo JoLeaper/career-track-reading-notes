@@ -41,4 +41,17 @@ Answer: Yu-Gi-Oh Cards Application. Cards, Packs, Cost. Cards have a one to many
 | **Mongoose**  | Mongoose is a data library that better organizes MongoDB to make it more usable while retaining its flexibility. |
 | **record**  | object that can contain one or more values in a database. |
 | **document**  | Superset of all other data models to allow for versatile data strcutring. |
+| **Object Relation Mapping (ORM)**  | Technique used for converting data betwee| Term   | Definition  |
+|---|---|
+| **database**  | An organzied collection of data.  |
+| **data model**  | Abstract model that organizes elements and how they are related to each other. |
+| **CRUD**  | Create, Read, Update, Delete (four basic data functions). |
+| **schema**  | Organization of data (as it relates to how the database is destructed) |
+| **sanitize**  | The removal of all dangerous characters before it gets passed to a SQL engine.  |
+| **Structured Query Language**  | Programming language that uses operations to retrive information from relational databases. |
+| **Non SQL(No SQL)**  | A database that uses data that is modeled in a non-table database. |
+| **MongoDB**  | Cross-platform document-oriented database program.|
+| **Mongoose**  | Mongoose is a data library that better organizes MongoDB to make it more usable while retaining its flexibility. |
+| **record**  | object that can contain one or more values in a database. |
+| **document**  | Superset of all other data models to allow for versatile data strcutring. |
 | **Object Relation Mapping (ORM)**  | Technique used for converting data between incompatible type systems. |
