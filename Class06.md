@@ -1,4 +1,4 @@
-# Class 05 Reading
+# Class 06 Reading
 
 ## HTTP
 - HTTP: Hyper Text Transfer Protocol
