@@ -1,4 +1,4 @@
-# Class 11 Reading: Bcrypt and JWT
+# Class 12 Reading: Bcrypt and JWT
 
 ## Previous Solutions To Password Solutions
 - Plain Text: Makes use of only letters. Dangerous because if a hacker gets access to these passwords, the userbase is in danger (which may give the hacker access to other sites).
